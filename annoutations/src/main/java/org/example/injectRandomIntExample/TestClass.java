@@ -1,4 +1,6 @@
-package org.example;
+package org.example.injectRandomIntExample;
+
+import org.example.injectRandomIntExample.InjectRandomInt;
 
 public class TestClass {
 

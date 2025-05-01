@@ -1,9 +1,10 @@
-package org.example;
+package org.example.injectRandomIntExample;
 
 import java.lang.reflect.Field;
 import java.util.Random;
 import lombok.Getter;
 import lombok.Setter;
+import org.example.injectRandomIntExample.InjectRandomInt;
 
 public class InjectRandomIntAnnotationProcessor {
 

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.injectRandomIntExample;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
