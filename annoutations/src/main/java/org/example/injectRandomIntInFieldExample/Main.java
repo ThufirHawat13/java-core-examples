@@ -1,4 +1,4 @@
-package org.example.injectRandomIntExample;
+package org.example.injectRandomIntInFieldExample;
 
 import lombok.SneakyThrows;
 
